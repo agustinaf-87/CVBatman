@@ -1,0 +1,57 @@
+
+h1,h2{
+    background-color: rgba(196, 196, 196, 1);
+    color: rgba(0, 86, 119, 1);
+    text-transform: uppercase;
+}
+header, footer{
+    text-align: center;
+}
+h1,h2,footer{
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+header{
+    background-color: #E6E6E6;
+    text-align: center;
+    display: block;
+}
+h1{
+    font-size: 35px;
+    font-style: normal;
+    font-weight: bold; 
+    padding: 10px;
+    letter-spacing: 15px;
+    letter-spacing: 15px;
+    text-transform: uppercase;
+}
+body{
+font-family: 'Times New Roman', Times, serif; 
+}
+h2{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 16.94px;
+    padding-left: 1%;
+}
+dt,dd,li{
+    font-size: 15px;
+    line-height: 1.5;
+}
+.datos-personales{ 
+    font-style: italic; 
+}
+span{
+    font-weight: 700;
+}
+footer{
+    background-color: rgba(0, 86, 119, 1);
+}
+.span-footer{
+    color:white;
+    text-transform: uppercase;
+}
+
+
+
+
